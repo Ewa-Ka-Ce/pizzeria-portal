@@ -2,10 +2,9 @@
 
 .component {
   padding: $base-size;
+  margin-left: auto;
 }
 
-.button {
-  margin: 20px auto 10px;
-  display: flex;
-  max-width: 150px;
+.link {
+  color: inherit;
 }

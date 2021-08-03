@@ -3,3 +3,12 @@
 .component {
   padding: $base-size;
 }
+.textField {
+  margin: 20px 0;
+}
+
+.button {
+  margin: 20px auto 10px;
+  display: flex;
+  max-width: 150px;
+}
